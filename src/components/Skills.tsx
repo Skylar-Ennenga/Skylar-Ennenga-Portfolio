@@ -65,8 +65,8 @@ const Skills = () => {
           <p className="mt-2">JavaScript</p>
         </div>
         <div className="text-center flex-grow">
-          <img src={tsImage} alt="JavaScript" className="h-20 w-20 mx-auto object-contain" />
-          <p className="mt-2">JavaScript</p>
+          <img src={tsImage} alt="TypeSript" className="h-20 w-20 mx-auto object-contain" />
+          <p className="mt-2">TypeScript</p>
         </div>
         <div className="text-center flex-grow">
           <img src={reactImage} alt="React" className="h-20 w-20 mx-auto object-contain" />
