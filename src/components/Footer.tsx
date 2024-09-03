@@ -4,7 +4,7 @@ import { faLinkedin, faGithub } from '@fortawesome/free-brands-svg-icons';
 
 const Footer = () => {
   return (
-    <footer className="bg-gray-900 py-6">
+    <footer className="bg-gray-900 py-6 ml-16">
       <div className="container mx-auto text-center text-white">
         <p className="mb-4">Connect with Me</p>
         <div className="flex justify-center space-x-6">

@@ -114,7 +114,7 @@ const Skills = () => {
           <img src={linuxImage} alt="Linux" className="h-20 w-20 mx-auto object-contain " />
           <p className="mt-2">Linux</p>
         </div>
-        <div className="text-center flex-grow cursor-pointer" onClick={() => openModal(GOOGLE, 'Google Cloud Certification')}>
+        <div className="text-center flex-grow cursor-pointer" onClick={() => openModal(GOOGLE, 'Google Cybersecurity Certification')}>
           <img src={googleImage} alt="Google Cloud" className="h-20 w-20 mx-auto object-contain " />
           <p className="mt-2">Google Cloud</p>
         </div>
