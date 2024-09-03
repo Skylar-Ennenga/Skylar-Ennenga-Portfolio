@@ -6,7 +6,7 @@ const About = () => {
 <div className="bg-gray-700 py-16 ml-16">
   <div className="bg-gray-800 text-white p-8 rounded-lg shadow-lg max-w-4xl mx-auto flex flex-col md:flex-row items-center">
     {/* Avatar/Illustration */}
-    <div className="w-full md:w-1/3 flex justify-center hidden md:block">
+    <div className="w-full md:w-1/3 justify-center hidden md:block">
       <img
         src={skylar}
         alt="Avatar"

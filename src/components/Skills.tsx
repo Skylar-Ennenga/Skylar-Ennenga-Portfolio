@@ -131,12 +131,9 @@ const Skills = () => {
       className="fixed inset-0 flex items-center justify-center bg-black bg-opacity-50 z-50"
       onClick={handleOverlayClick}
     >
-      <div className="bg-white p-8 rounded-lg shadow-lg max-w-lg w-full">
+      <div className="bg-gray-400 p-8 rounded-lg shadow-lg max-w-lg w-full">
         <h2 className="text-2xl font-bold mb-4">{modalTitle}</h2>
         <img src={modalImage} alt={modalTitle} className="w-full h-auto rounded-lg mb-4" />
-        <button onClick={closeModal} className="button w-full">
-          Close
-        </button>
       </div>
     </div>
   )}
