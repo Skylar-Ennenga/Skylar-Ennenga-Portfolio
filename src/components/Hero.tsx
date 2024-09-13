@@ -3,7 +3,7 @@ import resume from "../assets/Skylar Ennenga Resume.pdf";
 
 const Hero = () => {
   return (
-    <div className="ml-16 flex-1 flex items-center justify-center bg-gray-700">
+    <div className="ml-16 flex-1 flex items-center justify-center bg-gray-700 py-16">
       <div className="absolute top-4 right-4">
         <a
           href={resume}
