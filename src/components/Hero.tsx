@@ -24,7 +24,7 @@ const Hero = () => {
         <h1 className="text-5xl font-bold text-white mb-8">Skylar Ennenga</h1>
         <p className="text-xl text-gray-300">Welcome to My Portfolio</p>
         <p className="text-gray-400 mt-4">
-          I’m a former network engineer with an extensive background in network
+          an extensive background in network
           operations and deployable communications, now transitioning into
           front-end development after completing the Coding Temple bootcamp.
           With a solid technical foundation and a passion for crafting intuitive
