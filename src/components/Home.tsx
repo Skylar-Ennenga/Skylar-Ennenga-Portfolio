@@ -6,9 +6,11 @@ import Projects from "./Projects";
 import ContactForm from "./ConntactForm";
 import Footer from "./Footer";
 
+
 const Home = () => {
   return (
     <div>
+
       <div id="home">
         <Hero />
       </div>
@@ -25,6 +27,7 @@ const Home = () => {
       </div>
       <Footer />
     </div>
+
   );
 };
 
